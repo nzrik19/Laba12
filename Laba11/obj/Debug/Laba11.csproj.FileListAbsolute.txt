@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.MainForm.resources
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.Properties.Resources.resources
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba11\Laba11\bin\Debug\Laba11.exe.config
+C:\Users\User\source\repos\Laba11\Laba11\bin\Debug\Laba11.exe
+C:\Users\User\source\repos\Laba11\Laba11\bin\Debug\Laba11.pdb
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.InputForm.resources
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.exe
+C:\Users\User\source\repos\Laba11\Laba11\obj\Debug\Laba11.pdb
